@@ -128,7 +128,7 @@ public class GestorPrestamos
         prestamos = new List<Prestamo>();
     }
 
-    public Prestamo PrestarLibro(Libro libro, Usuario usuario)
+    public Prestamo? PrestarLibro(Libro libro, Usuario usuario)
     {
         if (libro.Disponible)
         {

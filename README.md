@@ -1,2 +1,11 @@
-# gestor-biblioteca-solid-net
-Gestior de biblioteca usando principios solid en c#
+# 📚 SOLID Principles
+Este proyecto tiene fines educativos está inplementado en .NET8
+
+# Requisitos 
+C#
+Visual Code 
+
+
+
+
+
